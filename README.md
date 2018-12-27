@@ -1,6 +1,7 @@
 # install-docker-on-windows-7-32-bit
 
 https://medium.com/@chrispatten/installing-and-running-docker-on-32-bit-windows-d18b95ee1fc3
+https://thesocietea.org/2016/04/installing-the-docker-client-cli-on-32-bit-windows/
 
 
 Issue
